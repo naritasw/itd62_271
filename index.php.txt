@@ -1,5 +1,6 @@
 <?php
 echo "Hello Narita Swangsarng";
 echo "ID : 64125743";
-echo "itd";
+echo "ID : ".sid;
+
 ?>
